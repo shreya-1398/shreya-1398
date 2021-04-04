@@ -1,11 +1,13 @@
-![Shreya Shahi's-cover](https://user-images.githubusercontent.com/52719271/113082778-b0db2180-91f8-11eb-81de-2542f6c20234.png)
+![Shreya Shahi's-cover](![shreya shahi's-cover (2)](https://user-images.githubusercontent.com/54746396/113505123-840d6e00-955a-11eb-851d-8ac34987e29e.png)
+)
 
 ## 🧔 About Me
-- 🎓Studying computer science and engineering at Madan Mohan Malaviya University of Technology.
+
+- 🎓Studying Computer Science and Engineering at Madan Mohan Malaviya University of Technology.
 
 - 🔭 I’m currently working on [css-art-gallery](https://github.com/shreya-1398/css-art-gallery)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack.**
 
 - 👯 I’m looking to collaborate on **Front-end web Development projects**
 
@@ -13,7 +15,7 @@
 
 - 📫 Contact me **[here](shreyashahi1398@gmail.com)**
 
-- ⚡ Fun fact **My perfect day would start with ^^a cup of coffee^^ and ends with ^^code^^.**
+- ⚡ Fun fact **My perfect day would start with a cup of coffee and ends with code.**
 
 ## ✍ My Work
 
