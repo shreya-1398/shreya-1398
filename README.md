@@ -1,5 +1,4 @@
-![Shreya Shahi's-cover](![shreya shahi's-cover (2)](https://user-images.githubusercontent.com/54746396/113505123-840d6e00-955a-11eb-851d-8ac34987e29e.png)
-)
+![Shreya Shahi's-cover](https://user-images.githubusercontent.com/54746396/113505123-840d6e00-955a-11eb-851d-8ac34987e29e.png)
 
 ## 🧔 About Me
 
